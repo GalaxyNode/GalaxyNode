@@ -1,7 +1,7 @@
 <div align="center">
   <div>
   <h2><i>
-  Testnets 
+  Testnets Guides 
   </i></h2>
   </div>
 </div>
@@ -52,7 +52,7 @@
 <div align="center">
   <div>
   <h2><i>
- Mainnets
+ Mainnets Guides
   </i></h2>
   </div>
 </div>

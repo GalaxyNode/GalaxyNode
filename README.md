@@ -43,3 +43,25 @@
             <a href="https://github.com/GalaxyNode/Testnets-guides/tree/main/Defund" target="_blank" rel="noopener noreferrer">
             <img height="80px" src="https://i.ibb.co/WD77JvY/Z62v-C92-400x400.jpg"> </a>
             </td>
+             </tr>
+    </tbody>
+</table> 
+
+# 
+
+<div align="center">
+  <div>
+  <h2><i>
+ Mainnets
+  </i></h2>
+  </div>
+</div>
+
+<table width="400px" align="center">
+    <tbody>
+        <tr valign="top">
+            <td width="130px" align="center">
+            <span><strong>Sei</strong></span><br><br />
+            <a href="https://github.com/GalaxyNode/Mainnets/tree/main/Uptick" target="_blank" rel="noopener noreferrer">
+            <img height="80px" src="https://i.ibb.co/HqT4jtX/Zw-Ciwc-R8-400x400.jpg"> </a>
+            </td>

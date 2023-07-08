@@ -1,9 +1,10 @@
-</style>
-</head>
-<body>
-  <div class="header">
-    <h2><i>Testnets</i></h2>
+<div align="center">
+  <div>
+  <h2><i>
+  Testnets 
+  </i></h2>
   </div>
+</div>
 
   <table width="400px" align="center">
     <tbody>

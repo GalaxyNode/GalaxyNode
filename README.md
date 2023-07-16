@@ -1,3 +1,15 @@
+<div id="badges" align="center">
+  <a href="https://twitter.com/home">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
+
+</br>
+
+<div align="center">
+  <img src="https://i.ibb.co/WPjHRmf/Screenshot-3.png"/>
+</div>
+
 <div align="center">
   <div>
   <h2><i>

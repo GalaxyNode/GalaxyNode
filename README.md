@@ -1,7 +1,7 @@
 <div align="center">
   <div>
   <h2><i>
-  Hello<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> Here you will find here how to install node for different projects and much more. 
+  Hello<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>Here you will find the installation of nodes and much more to help community. 
   </i></h2>
   </div>
 </div>

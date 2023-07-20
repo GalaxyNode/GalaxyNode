@@ -47,7 +47,7 @@
         <td width="130px" align="center">
           <span><strong>Nibiru</strong></span><br><br />
             <a href="https://github.com/GalaxyNode/Testnets-guides/tree/main/Nibiru" target="_blank" rel="noopener noreferrer">
-            <img height="80px" src="https://i.ibb.co/865XFvQ/Niburu.png">
+            <img height="80px" src="https://i.ibb.co/4mB3h0b/Z5-Sn-S2-YP-400x400.jpg">
             </td>
         <td width="130px" align="center">
           <span><strong>Router</strong></span><br><br />

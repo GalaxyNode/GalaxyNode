@@ -49,6 +49,11 @@
             <a href="https://github.com/GalaxyNode/Testnets-guides/tree/main/Nibiru" target="_blank" rel="noopener noreferrer">
             <img height="80px" src="https://i.ibb.co/865XFvQ/Niburu.png">
             </td>
+        <td width="130px" align="center">
+          <span><strong>Router</strong></span><br><br />
+            <a href="https://github.com/GalaxyNode/Testnets-guides/tree/main/Router" target="_blank" rel="noopener noreferrer">
+            <img height="80px" src="https://i.ibb.co/g39DP8r/EKEAQ1-FJ-400x400.jpg">
+            </td>
           </table>
 <table width="400px" align="center">
     <tbody>

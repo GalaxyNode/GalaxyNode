@@ -15,7 +15,7 @@
 </br>
 
 <div align="center">
-  <img src="[https://i.ibb.co/WPjHRmf/Screenshot-3.png](https://i.ibb.co/7C8x8C2/img2-akspic-ru-galaktika-voda-atmosfera-lazurnyj-purpur-3840x2160.png)"/>
+  <img src="https://i.ibb.co/7C8x8C2/img2-akspic-ru-galaktika-voda-atmosfera-lazurnyj-purpur-3840x2160.png"/>
 </div>
 
 <div align="center">

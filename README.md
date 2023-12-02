@@ -15,7 +15,7 @@
 </br>
 
 <div align="center">
-  <img src="https://i.ibb.co/VN1CxQH/image-32.png"/>
+  <img src="https://picshare.ru/images/2023/12/02/GN_cover.png"/>
 </div>
 
 <div align="center">

@@ -49,6 +49,11 @@
             <a href="https://github.com/GalaxyNode/Testnets-guides/tree/main/Router" target="_blank" rel="noopener noreferrer">
             <img height="80px" src="https://i.ibb.co/g39DP8r/EKEAQ1-FJ-400x400.jpg">
             </td>
+        <td width="130px" align="center">
+          <span><strong>Pryzm</strong></span><br><br />
+            <a href="https://github.com/GalaxyNode/Testnets-guides/tree/main/Prysm" target="_blank" rel="noopener noreferrer">
+            <img height="80px" src="https://i.ibb.co/SyZqzzy/PRYZM-Logo.jpg">
+            </td>
           </table>
 <table width="400px" align="center">
     <tbody>

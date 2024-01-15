@@ -45,11 +45,6 @@
             <img height="80px" src="https://i.ibb.co/s9MdT2Q/k-V74-EMrg-400x400.jpg">
             </td>
         <td width="130px" align="center">
-          <span><strong>Nibiru</strong></span><br><br />
-            <a href="https://github.com/GalaxyNode/Testnets-guides/tree/main/Nibiru" target="_blank" rel="noopener noreferrer">
-            <img height="80px" src="https://i.ibb.co/4mB3h0b/Z5-Sn-S2-YP-400x400.jpg">
-            </td>
-        <td width="130px" align="center">
           <span><strong>Router</strong></span><br><br />
             <a href="https://github.com/GalaxyNode/Testnets-guides/tree/main/Router" target="_blank" rel="noopener noreferrer">
             <img height="80px" src="https://i.ibb.co/g39DP8r/EKEAQ1-FJ-400x400.jpg">
@@ -119,4 +114,9 @@
             <span><strong>Nois</strong></span><br><br />
             <a href="https://github.com/GalaxyNode/Mainnets/tree/main/Nois" target="_blank" rel="noopener noreferrer">
             <img height="80px" src="https://i.ibb.co/pzmbJ6y/nm-I7-Yi-Mb-400x400.jpg"> </a>
+            </td>
+          <td width="130px" align="center">
+            <span><strong>Nibiru</strong></span><br><br />
+            <a href="https://github.com/GalaxyNode/Mainnets/tree/main/Nibiru" target="_blank" rel="noopener noreferrer">
+            <img height="80px" src="https://i.ibb.co/4mB3h0b/Z5-Sn-S2-YP-400x400.jpg"> </a>
             </td>

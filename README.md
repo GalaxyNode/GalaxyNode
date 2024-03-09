@@ -15,7 +15,7 @@
 </br>
 
 <div align="center">
-  <img src="https://picshare.ru/images/2023/12/02/GN_cover.png"/>
+  <img src="https://i.ibb.co/VN1CxQH/image-32.png"/>
 </div>
 
 <div align="center">
@@ -84,7 +84,7 @@
             <img height="80px" src="https://i.ibb.co/2g6RkX5/Elys-Network-Logo.jpg"> </a>
             </td>    
         <td width="130px" align="center">
-          <span><strong>Defund</strong></span><br><br />
+          <span><strong>Defund(Ended)</strong></span><br><br />
             <a href="https://github.com/GalaxyNode/Testnets-guides/tree/main/Defund" target="_blank" rel="noopener noreferrer">
             <img height="80px" src="https://i.ibb.co/WD77JvY/Z62v-C92-400x400.jpg"> </a>
             </td>
